@@ -1,0 +1,22 @@
+Ejercicios tema 5
+
+1.Inserta tres imágenes usando la etiqueta <img> agregando un atributo alt en cada una de ellas.
+
+2. Crea una tabla con al menos tres filas y cinco columnas. Utilizando las etiquetas <table>, <tr>, <td> y <th>.
+
+3. Crea una tabla que contenga ingresos como cabecera, además, la tabla tendrá 4 filas y dos columnas, debes fusionar la primera y la segunda fila de la tabla en cuestión. 
+
+4. Repite el ejercicio anterior pero esta vez debes fusionar filas y columnas, además la tabla deberá tener una tercera columna.
+
+5. Crea una tabla en la que guardarás: el año, el nombre de la pelicula, el director y una imagen
+
+6. Crea un formulario usando los nuevos controles que ofrece HTML5
+
+7. Crea un formulario que permita buscar productos o servicios necesitarás:
+	- Un campo de texto para introducir el término de búsqueda
+	- Un campo de selección con opciones como "Productos", "Servicios" y "Ofertas"
+	- Un botón para realizar la búsqueda.
+
+8. Crea una página web que contenga: un <aside>, dos <article>, un <figure> y un <nav> a parte del header y el footer. No es necesario incluir CSS dado que lo veremos en el siguiente tema. 
+
+9. Agrega al aside un breve formulario de login y además agrega un favicon al sitio web (El ejercicio 8 y este ejercicio debes entregarlos por separado). 

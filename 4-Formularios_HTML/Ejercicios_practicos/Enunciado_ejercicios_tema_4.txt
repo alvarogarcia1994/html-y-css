@@ -1,0 +1,36 @@
+Ejercicios tema 4
+
+1. Crea un formulario simple con un con un campo de texto, un botón y un campo de selección
+
+2. Crea un formulario de contacto que contenga:
+	- Un campo de texto para el nombre
+	- Un campo de texto para el correo electrónico.
+	- Un campo de texto para el mensaje
+	- Un botón para enviar
+
+3. Crea un formulario con los siguientes campos:
+	- Nombre completo (campo de texto)
+	- Dirección de correo electrónico (campo de correo electrónico)
+	- Contraseña (campo de contraseña) 
+	- Confirmación de contraseña (campo de contraseña)
+	- Un botón para enviar.
+
+4. Crea un formulario de que contenga:
+	- Un campo de selección de género con las opciones "Masculino" y "Femenino"
+	- Un botón para enviar el formulario.
+
+5. Crea un formulario que contenga:
+	- Un campo de fecha
+	- Un campo de hora
+	- Un botón para enviar
+
+6. Crea un formulario con un campo de selección de país, donde  los países estén organizados en grupos por continente utilizando la etiqueta <optgroup>. Por ejemplo puedes tener dos o más grupos "Europa" y "América" algunos países como "España", "Francia" en Europa y "México", "Argentina" en "América"
+
+7. Crea un formulario con:
+	-Una pregunta "¿Cómo calificarías nuestro servicio?" con opciones de radio: "Excelente", "Bueno", "Regular", "Malo".
+	- Un campo de texto para comentarios adicionales.
+	- Un botón para enviar.
+
+8. Crea un formulario con varias opciones de suscripción:
+	- Casillas de verificación para elegir las opciones de suscripción a un boletín de noticias: "Recibir promociones", "Recibir novedades", "Recibir ofertas exclusivas"
+	- Un botón para enviar el formulario

@@ -1,0 +1,17 @@
+Ejercicios tema 3.
+
+1. Crea una página con la estructura básica de HTML.
+
+2. Utiliza las etiquetas <h1> a <h6> para los encabezados y al menos varias veces la etiqueta <p> para insertar párrafos.
+
+3. Crea una lista no ordenada de cinco colores utilizando las etiquetas <ul> y <li>.
+
+4. Crea una lista ordenada de cinco películas utilizando las etiquetas <ol> y <li>.
+
+5. Crea un enlace a tu sitio web favorito
+
+6. Crea varias listas anidadas 
+
+7. Crea una página web con tu CV
+
+8. Agrega al código del ejercicio anterior comentarios.
